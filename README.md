@@ -1,4 +1,4 @@
-# 😎 Gabrielle Porto
+# 😎 Gabrielle Viera
 
 **'Desenvolvedora Back-End'**
 
