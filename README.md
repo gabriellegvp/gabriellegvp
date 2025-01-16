@@ -4,6 +4,7 @@
 
 Bem-vindo(a) ao meu GitHub! Aqui você encontra meu trabalho como desenvolvedora, com foco em Back-end e Inteligência Artificial voltada para a inclusão e educação. Atualmente, estou trabalhando em projetos que combinam tecnologia e acessibilidade para criar um impacto positivo no mundo.
 
+![GIF representando tecnologia e inclusão] (https://github.com/gabriellegvp/gabriellegvp /raw/main/nezuko-gif-5.gif)
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
