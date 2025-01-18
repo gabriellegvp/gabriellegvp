@@ -33,12 +33,35 @@ Sistema de gerenciamento de tarefas voltado para professores, ideal para planeja
 - **Objetivo:** Reduzir a carga administrativa de educadores e otimizar o tempo de ensino.  
 
 ### [🤖 Chatbot de Inclusão Digital](https://github.com/gabriellegvp/chatbot_inclusao)  
-Assistente virtual inteligente desenvolvido com foco em acessibilidade digital.  
-- **Tecnologias:** Python, Natural Language Processing (NLP)  
-- **Funcionalidades:**  
-  - Responde dúvidas frequentes sobre tecnologia  
-  - Adaptado para interagir com usuários PCDs  
-- **Objetivo:** Democratizar o acesso à tecnologia e auxiliar na inclusão digital.  
+
+Um assistente virtual projetado para promover acessibilidade e democratizar o uso da tecnologia.  
+
+## ✨ Funcionalidades  
+
+- **Análise de Sentimentos:** Detecta e responde de forma empática a descrições de situações emocionais.  
+- **Text-to-Speech (TTS):** Converte texto em áudio, promovendo acessibilidade para pessoas com deficiência visual.  
+- **Aprendizado Interativo:** Lições dinâmicas sobre cores, formas e números.  
+- **Integração Social:** Sugere atividades para melhorar habilidades sociais de crianças.  
+
+## 🛠️ Tecnologias Utilizadas  
+
+- **Linguagem:** Python  
+- **Bibliotecas Principais:**  
+  - `TextBlob`: Para análise de sentimentos.  
+  - `Pyttsx3`: Para conversão de texto em fala.  
+  - `Flask`: Para futuras integrações web.  
+- **Banco de Dados:** MongoDB (para armazenamento de lições e respostas personalizadas).  
+
+## 🚀 Objetivo  
+
+Tornar a tecnologia uma aliada na educação e inclusão, com foco no suporte emocional e no aprendizado acessível para crianças autistas e surdas, facilitando sua integração social e aprendizado interativo.  
+
+## 📌 Como Rodar o Projeto  
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/gabriellegvp/chatbot_inclusao.git
+   cd chatbot_inclusao
 
 ---
 
