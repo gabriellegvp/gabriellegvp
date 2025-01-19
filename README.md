@@ -74,7 +74,7 @@ Sou apaixonada por tecnologia e acredito no poder da programação para transfor
 ## 📩 **Entre em Contato**  
 
 - 🌐 **[LinkedIn](https://www.linkedin.com/in/gabrielle-vieira-porto/)**  
-- 📧 **Email:** gabrielle.viera@example.com  
+- 📧 **Email:** gabriellegvporto@gmail.com 
 - 💬 Sempre aberta a colaborações em projetos de código aberto e iniciativas inovadoras!  
 
 **"Vamos criar tecnologia para todos, com impacto e propósito!"**
